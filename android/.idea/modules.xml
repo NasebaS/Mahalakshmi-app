@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MAHALAKSHMIAPP.iml" filepath="$PROJECT_DIR$/.idea/modules/MAHALAKSHMIAPP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/378786319/MAHALAKSHMIAPP.@react-native-community_checkbox.iml" filepath="$PROJECT_DIR$/.idea/modules/378786319/MAHALAKSHMIAPP.@react-native-community_checkbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1637042598/MAHALAKSHMIAPP.@react-native-community_checkbox.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1637042598/MAHALAKSHMIAPP.@react-native-community_checkbox.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1637042598/MAHALAKSHMIAPP.@react-native-community_checkbox.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1637042598/MAHALAKSHMIAPP.@react-native-community_checkbox.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1637042598/MAHALAKSHMIAPP.@react-native-community_checkbox.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1637042598/MAHALAKSHMIAPP.@react-native-community_checkbox.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MAHALAKSHMIAPP.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MAHALAKSHMIAPP.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MAHALAKSHMIAPP.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MAHALAKSHMIAPP.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MAHALAKSHMIAPP.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MAHALAKSHMIAPP.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MAHALAKSHMIAPP.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MAHALAKSHMIAPP.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1539661590/MAHALAKSHMIAPP.lottie-react-native.iml" filepath="$PROJECT_DIR$/.idea/modules/-1539661590/MAHALAKSHMIAPP.lottie-react-native.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/190884927/MAHALAKSHMIAPP.lottie-react-native.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/190884927/MAHALAKSHMIAPP.lottie-react-native.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/190884927/MAHALAKSHMIAPP.lottie-react-native.main.iml" filepath="$PROJECT_DIR$/.idea/modules/190884927/MAHALAKSHMIAPP.lottie-react-native.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/190884927/MAHALAKSHMIAPP.lottie-react-native.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/190884927/MAHALAKSHMIAPP.lottie-react-native.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-419384546/MAHALAKSHMIAPP.react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-419384546/MAHALAKSHMIAPP.react-native-community_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/387040691/MAHALAKSHMIAPP.react-native-community_async-storage.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/387040691/MAHALAKSHMIAPP.react-native-community_async-storage.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/387040691/MAHALAKSHMIAPP.react-native-community_async-storage.main.iml" filepath="$PROJECT_DIR$/.idea/modules/387040691/MAHALAKSHMIAPP.react-native-community_async-storage.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/387040691/MAHALAKSHMIAPP.react-native-community_async-storage.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/387040691/MAHALAKSHMIAPP.react-native-community_async-storage.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/378786319/MAHALAKSHMIAPP.react-native-community_checkbox.iml" filepath="$PROJECT_DIR$/.idea/modules/378786319/MAHALAKSHMIAPP.react-native-community_checkbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1637042598/MAHALAKSHMIAPP.react-native-community_checkbox.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1637042598/MAHALAKSHMIAPP.react-native-community_checkbox.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1637042598/MAHALAKSHMIAPP.react-native-community_checkbox.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1637042598/MAHALAKSHMIAPP.react-native-community_checkbox.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1637042598/MAHALAKSHMIAPP.react-native-community_checkbox.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1637042598/MAHALAKSHMIAPP.react-native-community_checkbox.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1478029398/MAHALAKSHMIAPP.react-native-document-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/1478029398/MAHALAKSHMIAPP.react-native-document-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-821186015/MAHALAKSHMIAPP.react-native-document-picker.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-821186015/MAHALAKSHMIAPP.react-native-document-picker.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-821186015/MAHALAKSHMIAPP.react-native-document-picker.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-821186015/MAHALAKSHMIAPP.react-native-document-picker.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-821186015/MAHALAKSHMIAPP.react-native-document-picker.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-821186015/MAHALAKSHMIAPP.react-native-document-picker.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1721218148/MAHALAKSHMIAPP.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1721218148/MAHALAKSHMIAPP.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/274533735/MAHALAKSHMIAPP.react-native-gesture-handler.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/274533735/MAHALAKSHMIAPP.react-native-gesture-handler.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/274533735/MAHALAKSHMIAPP.react-native-gesture-handler.main.iml" filepath="$PROJECT_DIR$/.idea/modules/274533735/MAHALAKSHMIAPP.react-native-gesture-handler.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/274533735/MAHALAKSHMIAPP.react-native-gesture-handler.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/274533735/MAHALAKSHMIAPP.react-native-gesture-handler.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1677555883/MAHALAKSHMIAPP.react-native-image-base64.iml" filepath="$PROJECT_DIR$/.idea/modules/1677555883/MAHALAKSHMIAPP.react-native-image-base64.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1714552128/MAHALAKSHMIAPP.react-native-image-base64.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1714552128/MAHALAKSHMIAPP.react-native-image-base64.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1714552128/MAHALAKSHMIAPP.react-native-image-base64.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1714552128/MAHALAKSHMIAPP.react-native-image-base64.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1714552128/MAHALAKSHMIAPP.react-native-image-base64.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1714552128/MAHALAKSHMIAPP.react-native-image-base64.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1101267026/MAHALAKSHMIAPP.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/-1101267026/MAHALAKSHMIAPP.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/894484857/MAHALAKSHMIAPP.react-native-linear-gradient.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/894484857/MAHALAKSHMIAPP.react-native-linear-gradient.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/894484857/MAHALAKSHMIAPP.react-native-linear-gradient.main.iml" filepath="$PROJECT_DIR$/.idea/modules/894484857/MAHALAKSHMIAPP.react-native-linear-gradient.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/894484857/MAHALAKSHMIAPP.react-native-linear-gradient.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/894484857/MAHALAKSHMIAPP.react-native-linear-gradient.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1871347968/MAHALAKSHMIAPP.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/1871347968/MAHALAKSHMIAPP.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1042556901/MAHALAKSHMIAPP.react-native-restart.iml" filepath="$PROJECT_DIR$/.idea/modules/1042556901/MAHALAKSHMIAPP.react-native-restart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-850336592/MAHALAKSHMIAPP.react-native-restart.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-850336592/MAHALAKSHMIAPP.react-native-restart.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-850336592/MAHALAKSHMIAPP.react-native-restart.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-850336592/MAHALAKSHMIAPP.react-native-restart.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-850336592/MAHALAKSHMIAPP.react-native-restart.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-850336592/MAHALAKSHMIAPP.react-native-restart.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/123137285/MAHALAKSHMIAPP.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/123137285/MAHALAKSHMIAPP.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1809684464/MAHALAKSHMIAPP.react-native-safe-area-context.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1809684464/MAHALAKSHMIAPP.react-native-safe-area-context.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1809684464/MAHALAKSHMIAPP.react-native-safe-area-context.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1809684464/MAHALAKSHMIAPP.react-native-safe-area-context.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1809684464/MAHALAKSHMIAPP.react-native-safe-area-context.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1809684464/MAHALAKSHMIAPP.react-native-safe-area-context.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-273834968/MAHALAKSHMIAPP.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-273834968/MAHALAKSHMIAPP.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-273834968/MAHALAKSHMIAPP.react-native-screens.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-273834968/MAHALAKSHMIAPP.react-native-screens.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-273834968/MAHALAKSHMIAPP.react-native-screens.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-273834968/MAHALAKSHMIAPP.react-native-screens.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-273834968/MAHALAKSHMIAPP.react-native-screens.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-273834968/MAHALAKSHMIAPP.react-native-screens.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1238036277/MAHALAKSHMIAPP.react-native-share.iml" filepath="$PROJECT_DIR$/.idea/modules/1238036277/MAHALAKSHMIAPP.react-native-share.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-100244800/MAHALAKSHMIAPP.react-native-share.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-100244800/MAHALAKSHMIAPP.react-native-share.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-100244800/MAHALAKSHMIAPP.react-native-share.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-100244800/MAHALAKSHMIAPP.react-native-share.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-100244800/MAHALAKSHMIAPP.react-native-share.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-100244800/MAHALAKSHMIAPP.react-native-share.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1145866772/MAHALAKSHMIAPP.react-native-ui-lib.iml" filepath="$PROJECT_DIR$/.idea/modules/-1145866772/MAHALAKSHMIAPP.react-native-ui-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/584679745/MAHALAKSHMIAPP.react-native-ui-lib.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/584679745/MAHALAKSHMIAPP.react-native-ui-lib.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/584679745/MAHALAKSHMIAPP.react-native-ui-lib.main.iml" filepath="$PROJECT_DIR$/.idea/modules/584679745/MAHALAKSHMIAPP.react-native-ui-lib.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/584679745/MAHALAKSHMIAPP.react-native-ui-lib.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/584679745/MAHALAKSHMIAPP.react-native-ui-lib.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1466356154/MAHALAKSHMIAPP.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/1466356154/MAHALAKSHMIAPP.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1925751857/MAHALAKSHMIAPP.react-native-vector-icons.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1925751857/MAHALAKSHMIAPP.react-native-vector-icons.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1925751857/MAHALAKSHMIAPP.react-native-vector-icons.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1925751857/MAHALAKSHMIAPP.react-native-vector-icons.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1925751857/MAHALAKSHMIAPP.react-native-vector-icons.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1925751857/MAHALAKSHMIAPP.react-native-vector-icons.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/725441539/MAHALAKSHMIAPP.rn-fetch-blob.iml" filepath="$PROJECT_DIR$/.idea/modules/725441539/MAHALAKSHMIAPP.rn-fetch-blob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/748985752/MAHALAKSHMIAPP.rn-fetch-blob.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/748985752/MAHALAKSHMIAPP.rn-fetch-blob.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/748985752/MAHALAKSHMIAPP.rn-fetch-blob.main.iml" filepath="$PROJECT_DIR$/.idea/modules/748985752/MAHALAKSHMIAPP.rn-fetch-blob.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/748985752/MAHALAKSHMIAPP.rn-fetch-blob.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/748985752/MAHALAKSHMIAPP.rn-fetch-blob.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1225329263/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/1225329263/react-native-gradle-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-112951814/react-native-gradle-plugin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-112951814/react-native-gradle-plugin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-112951814/react-native-gradle-plugin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/-112951814/react-native-gradle-plugin.test.iml" />
+    </modules>
+  </component>
+</project>
