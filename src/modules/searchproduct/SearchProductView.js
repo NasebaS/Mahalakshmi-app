@@ -127,7 +127,7 @@ _openArticle = article => {
 
 
 renderRowOne = rowData => {
-  //console.log(rowData.item);
+  console.log(rowData.item);
   const cellViews = rowData.item.map(item => (
     <TouchableOpacity key={item.productid} onPress={() => this.props.navigation.navigate('Product',{ id: item.productid})}>
       <View style={styles.itemOneContainer}>
@@ -307,7 +307,7 @@ render(){
                               var data = this.state.productdetailsMain.filter(function(item_filter){
                                   return item_filter.categoryname == cate_name;
                               }).map(function(item_filter){
-                                subarray.push(item_filter);
+                                c.push(item_filter);
                               });
                               // console.log(this.state.productdetailsMain);
                               // console.log(data);

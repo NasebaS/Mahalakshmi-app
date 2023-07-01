@@ -9,10 +9,14 @@ import {
   Keyboard,
   TouchableOpacity,
   ScrollView,
+  Pressable,
 } from 'react-native';
 import AsyncStorage from '@react-native-community/async-storage';
 import Loader from '../../components/Loader';
-export default class MyProfileScreen extends React.Component {
+
+
+
+const AddressScreen=({navigation})=>{
   state = {
     userid:0 ,
     cartdetails:'',
@@ -22,7 +26,9 @@ export default class MyProfileScreen extends React.Component {
     email:'',
     password:'',
     phone_number:'',
- }
+        
+ } 
+
   componentDidMount = () => {
     this.getuser();
     this.setState({ loader: true })
@@ -64,7 +70,9 @@ export default class MyProfileScreen extends React.Component {
           })
         })
   }
-  
+  handleAddAddress=()=>{
+    this.setState({ showForm: true });
+};
   
    handleSubmitButton = () => {
      
@@ -129,10 +137,12 @@ export default class MyProfileScreen extends React.Component {
             // setUserPassword(data.user_detail[0].password)
             // setUserMobileNumber(data.user_detail[0].phone_number)
         })
+        
+       
   
   };
 
-  render() {
+ 
 
     return (
       <View style={{flex: 1, backgroundColor: 'white'}}>
@@ -217,7 +227,16 @@ export default class MyProfileScreen extends React.Component {
               value={this.state.phone_number}
             />
           </View>
+        
+          <TouchableOpacity
+            style={styles.button}
+            activeOpacity={0.5}
+            onPress={() => navigation.navigate('Address')}>
           
+            <Text style={styles.buttonText}>Add Address</Text>
+          </TouchableOpacity>
+        
+
           <TouchableOpacity
             style={styles.buttonStyle}
             activeOpacity={0.5}
@@ -230,7 +249,8 @@ export default class MyProfileScreen extends React.Component {
     </View>
     );
   }
-}
+
+export default AddressScreen;
 
 const styles = StyleSheet.create({
   SectionStyle: {
@@ -240,6 +260,21 @@ const styles = StyleSheet.create({
     marginLeft: 35,
     marginRight: 35,
     margin: 10,
+  },
+  address: {
+    display:'flex',
+   flexDirection:'row',
+
+  },
+  button: {
+    marginTop: 20,
+    backgroundColor: 'white',
+    padding: 10,
+    borderRadius: 5,
+  },
+  buttonText: {
+    color: 'blue',
+    fontSize: 14,
   },
   buttonStyle: {
     backgroundColor: '#35baf5',

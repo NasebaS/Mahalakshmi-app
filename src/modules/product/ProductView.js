@@ -47,8 +47,10 @@ const iconoutofstock = require('../../../assets/images/icons/outofstock.jpg');
 const loader = require('../../../assets/images/pages/loader.gif');
 const countries = ["Egypt", "Canada", "Australia", "Ireland"];
 var DomParser = require('react-native-html-parser').DOMParser
-export default class ProductScreen extends React.Component {
 
+
+export default class ProductScreen extends React.Component {
+  
   state = {
     productdetails: '',
     productimages: '',
@@ -77,6 +79,7 @@ export default class ProductScreen extends React.Component {
     DescLength:0,
     DescCopyShare:''
   }
+  
   increment = () => this.setState({ quantity: this.state.quantity + 1 });
   decrement = () => this.setState({ quantity: this.state.quantity - 1 });
   componentDidMount = () => {
@@ -107,7 +110,7 @@ export default class ProductScreen extends React.Component {
       .then((response) => response.json())
       .then((responseJson) => {
         this.getuser();
-        console.log(responseJson);
+        // console.log(responseJson);
         this.refs._scrollView.scrollTo({});
         var sizearray = responseJson.productdetails[0].sizes.split(',');
         var colorarray = responseJson.productdetails[0].colors.split(',');

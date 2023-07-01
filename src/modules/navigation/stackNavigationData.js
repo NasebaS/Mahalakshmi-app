@@ -35,6 +35,7 @@ import BuyNowScreenCartReseller from '../buy-now-cart-reseller/BuynowcartReselle
 import MyWalletScreen from '../mywallet/MywalletView';
 import ContactUsScreen from '../contact-us/ContactUs';
 import TestScreen from '../testimage/TestImageViewContainer';
+import AddressScreen from '../myprofile/AddressView';
 
 import { Icon } from 'react-native-elements';
 
@@ -426,6 +427,18 @@ const StackNavigationData = [
       color: colors.white,
       fontSize: 18,
     }
+  },
+  {
+    name: 'Address',
+    component: AddressScreen,
+    headerLeft: null,
+    headerRight: headerRightComponent,
+    headerBackground: { source: headerBackground },
+    headerTitleStyle: {
+      fontFamily: fonts.primaryRegular,
+      color: colors.white,
+      fontSize: 18,
+    },
   },
   
   
